@@ -2,4 +2,4 @@
 
 Leftmenu View using swiftUI 
 
-![Alt text](https://github.com/mitsBhadeshiya/SwiftUILeftmenu/blob/main/Screenshot/Screenshot.pngg "Leftmenu design swiftUI")
+![Alt text](https://raw.githubusercontent.com/mitsBhadeshiya/SwiftUILeftmenu/main/Screenshot/Screenshot.png "Leftmenu design swiftUI")
